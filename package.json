@@ -1,0 +1,29 @@
+{
+  "name": "node-qwebchannel",
+  "version": "1.0.0",
+  "description": "nada",
+  "main": "QWebChannel server",
+  "dependencies": {
+    "nodejs-websocket": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavosbarreto/node-qwebchannel.git"
+  },
+  "keywords": [
+    "qt",
+    "qwebchannel",
+    "websocket",
+    "webengine"
+  ],
+  "author": "Luis Gustavo S. Barreto <gustavosbarreto@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavosbarreto/node-qwebchannel/issues"
+  },
+  "homepage": "https://github.com/gustavosbarreto/node-qwebchannel#readme"
+}
