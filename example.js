@@ -1,4 +1,4 @@
-var QWebChannel = require('qwebchannel');
+var QWebChannel = require('node-qwebchannel');
 
 var progressInterval = 0;
 var progress = 0;
